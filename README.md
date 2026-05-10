@@ -44,4 +44,4 @@
 
 - LinkedIn: https://www.linkedin.com/in/joel-alvarez-software-engineer/
 - Email: Joel124@outlook.es
-- PortFolio: https://joel-alvarezdev.vercel.app/
+- Portfolio: https://joel-alvarezdev.vercel.app/
