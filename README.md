@@ -10,7 +10,7 @@
 
 # 🧭 About Me
 
-- Front-End Developer focused on responsive, user-focused web applications
+- Front-End Software Engineer focused on responsive, user-focused web applications
 - Strong foundation in React, Next.js, JavaScript, TypeScript, and component-based architecture
 - Experienced building modern interfaces with REST APIs, authentication, and dynamic data
 - Passionate about clean UI, performance, and writing maintainable code
