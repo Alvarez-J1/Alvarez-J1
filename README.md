@@ -21,7 +21,7 @@
 
 # 🧰 Tools & Technologies I Work With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,nodejs,express,mongodb,git,github,vite,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,nodejs,express,mongodb,git,github,vite,vscode,figma&perline=8" />
 </p>
 
 <hr>
