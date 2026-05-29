@@ -6,7 +6,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Front-End+Software+Engineer;React+%7C+Next.js+%7C+TypeScript;UI%2FUX+Focused" />
 </p>
-<hr style="height:4px;border:none;background-color:#d0d7de;">
+
+<hr>
 
 # 🧭 About Me
 
@@ -16,12 +17,11 @@
 - Passionate about clean UI, performance, and writing maintainable code
 - Continuously improving through real-world projects and consistent learning
 
-<hr style="height:4px;border:none;background-color:#d0d7de;">
+<hr>
 
 # 🧰 Tools & Technologies I Work With
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,nodejs,express,mongodb,git,github,vite,vscode,figma" />
 </p>
 
-<hr style="height:4px;border:none;background-color:#d0d7de;">
+<hr>
