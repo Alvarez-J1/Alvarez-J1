@@ -25,23 +25,3 @@
 </p>
 
 <hr style="height:4px;border:none;background-color:#d0d7de;">
-
-# ⌨️ What I Build
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Responsive+Frontend+Experiences;Modern+React+Applications;Interactive+UI+Components;REST+API+Integrated+Projects;Clean+and+Maintainable+Code" />
-</p>
-
-<hr style="height:4px;border:none;background-color:#d0d7de;">
-
-# 🚀 Current Focus
-
-⚛️ BUILDING MODERN UI • 🚀 NEXT.JS PROJECTS • 🤖 AI WORKFLOWS • 💼 FRONTEND OPPORTUNITIES
-
-<hr style="height:4px;border:none;background-color:#d0d7de;">
-
-# 📫 Let's Connect
-
-- LinkedIn: https://www.linkedin.com/in/joel-alvarez-software-engineer/
-- Email: Joel124@outlook.es
-- Portfolio: https://joel-alvarezdev.vercel.app/
