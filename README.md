@@ -4,19 +4,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Front-End+Software+Engineer;React+%7C+Next.js+%7C+TypeScript;UI%2FUX+Focused" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Responsive+Web+Applications" />
 </p>
 
 <hr>
 
 # 🧭 About Me
 
-- Front-End Software Engineer focused on responsive, user-focused web applications
-- Strong foundation in React, Next.js, JavaScript, TypeScript, and component-based architecture
+- Full-Stack Software Engineer building responsive web applications with React, Next.js, TypeScript, Node.js, Express, and MongoDB.
 - Experienced building modern interfaces with REST APIs, authentication, and dynamic data
-- Passionate about clean UI, performance, and writing maintainable code
 - Continuously improving through real-world projects and consistent learning
-
 <hr>
 
 # 🧰 Tools & Technologies I Work With
