@@ -12,7 +12,7 @@
 # 🧭 About Me
 
 - Full-Stack Software Engineer building responsive web applications with React, Next.js, TypeScript, Node.js, Express, and MongoDB.
-- Experienced building modern interfaces with REST APIs, authentication, and dynamic data
+- Experienced building modern web applications with REST APIs, authentication, and dynamic data
 - Continuously improving through real-world projects and consistent learning
 <hr>
 
