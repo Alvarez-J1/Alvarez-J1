@@ -11,9 +11,9 @@
 
 # 🧭 About Me
 
-- Full-Stack Software Engineer building responsive web applications with React, Next.js, Angular, Java, Spring Boot, Node.js, Express, PostgreSQL, and MongoDB.
+- Full-Stack Software Engineer building full-stack responsive web applications with React, Next.js, Angular, Java, Spring Boot, Node.js, Express, PostgreSQL, and MongoDB.
 - Experienced building modern web applications with REST APIs, authentication, and dynamic data
-- Continuously improving through real-world projects and consistent learning
+- Driven by discipline, continuous improvement, and a strong work ethic, I consistently challenge myself to learn new technologies, refine my skills, and build solutions through hands-on development.
 <hr>
 
 # 🧰 Tools & Technologies I Work With
