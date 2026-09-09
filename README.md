@@ -17,7 +17,7 @@
 
 # 🧰 Tools & Technologies I Work With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,rxjs,html,css,sass,tailwindcss,mui,java,spring,postgres,docker,nodejs,express,mongodb,git,github,vite,vscode,figma&perline=8" />
+ <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,rxjs,html,css,sass,tailwindcss,mui,java,spring,python,fastapi,postgres,docker,nodejs,express,mongodb,git,github,vite,vscode,figma&perline=8" />
 </p>
 
 <hr>
