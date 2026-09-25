@@ -8,14 +8,12 @@
 
 <hr>
 
-# 🧭 About Me
-
 - Full-Stack Software Engineer building end-to-end web applications and AI-powered tools with React, Next.js, Angular, Python, FastAPI, Java, Spring Boot, Node.js, Express, PostgreSQL, and MongoDB.
 - Experienced building modern web applications with REST APIs, authentication, and dynamic data
 - Driven by discipline, continuous improvement, and a strong work ethic, I consistently challenge myself to learn new technologies, refine my skills, and build solutions through hands-on development.
 <hr>
 
-# 🧰 Tools & Technologies I Work With
+# 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,rxjs,html,css,sass,tailwindcss,mui,java,spring,python,fastapi,postgres,docker,nodejs,express,mongodb,git,github,vite,vscode,figma&perline=8" />
 </p>
